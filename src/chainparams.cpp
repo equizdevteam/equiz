@@ -160,9 +160,9 @@ public:
 	vFixedSeeds.clear();
         vSeeds.clear();
 
-        vSeeds.push_back(CDNSSeedData("0cashnode1", "0cashnode1.xyz"));
-	vSeeds.push_back(CDNSSeedData("0cashnode2", "0cashnode2.xyz"));
-	vSeeds.push_back(CDNSSeedData("0cashnode3", "0cashnode3.xyz"));
+        //vSeeds.push_back(CDNSSeedData("0cashnode1", "0cashnode1.xyz"));
+	//vSeeds.push_back(CDNSSeedData("0cashnode2", "0cashnode2.xyz"));
+	//vSeeds.push_back(CDNSSeedData("0cashnode3", "0cashnode3.xyz"));
 
         fMiningRequiresPeers = true;
         fDefaultConsistencyChecks = false;
